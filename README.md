@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<div>
+<a href="https://github-readme-stats.vercel.app/apiusername=Princess-of-Sleeping&count_private=true&show_icons=true&include_all_commits=true">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Princess-of-Sleeping&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Princess-of-Sleeping&hide=javascript,php,html&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princess-of-Sleeping&hide=javascript,php,html&layout=compact" />
+</a>
+</div>
+
 <!--
 **Princess-of-Sleeping/Princess-of-Sleeping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
